@@ -1,4 +1,4 @@
-# ComputerVision
+#Computer Vision(Segmentation)
 Steps:
 Installing Label Studio 
 Commands used 
@@ -8,5 +8,7 @@ Commands used
     - label-studio
  Create account in Label Studio.
  Login 
- Create new project, name it, choose labelling setup 
- 
+ Create new project, name it, choose labelling setup.
+ Start annotating your dataset
+ We can add/remove the labels as per the requirements
+ Export the .json labeling file after annotating.
